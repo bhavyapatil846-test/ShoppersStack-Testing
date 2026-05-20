@@ -1,0 +1,10 @@
+
+
+api → 200 OK
+
+POST /api/login
+username: user1
+password: 12345
+Expected: Login successful
+
+DELETE /api/products/101 → Deleted successfully
